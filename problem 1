@@ -1,6 +1,6 @@
 class student:
-    name = "SAI TEJA"
-    age = 19
+    name = "VISHNU"
+    age = 20
     def read(self):
         print("reading")
     def write(self):
